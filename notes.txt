@@ -1,0 +1,5 @@
+
+npm install http-server -g // instalar servidor
+http-server./  // rodar o servidor na pasta atual
+
+https://tinypng.com/ // site para otimizar imagens
